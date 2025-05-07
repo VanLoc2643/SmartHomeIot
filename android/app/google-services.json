@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "13089167270",
+    "firebase_url": "https://smarthomeiot-82211-default-rtdb.firebaseio.com",
+    "project_id": "smarthomeiot-82211",
+    "storage_bucket": "smarthomeiot-82211.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13089167270:android:f92494dff4ed5d7db36167",
+        "android_client_info": {
+          "package_name": "com.example.myappiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13089167270-7utksadhp32tfesti2uek0vobvvbctcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myappiot",
+            "certificate_hash": "5368b312f333072fbbb0a9eeaefa59a4fea33173"
+          }
+        },
+        {
+          "client_id": "13089167270-5ia0vtotf7c6kq3odfufqf50rui9o81u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpP-po0LflWe_L7PcuR_xgnW4TaM4oxY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13089167270-5ia0vtotf7c6kq3odfufqf50rui9o81u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
